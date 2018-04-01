@@ -1,0 +1,9 @@
+{
+  "flow.pathToFlow": "flow",
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "prettier.semi": false,
+  "javascript.validate.enable": false,
+  "flow.useNPMPackagedFlow": true
+}
